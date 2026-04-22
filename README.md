@@ -1,4 +1,4 @@
-# 🎬 AutoStream AI Agent
+# Social-to-lead Agentic Workflow
 
 > A conversational AI agent that detects user intent, answers product questions via RAG, and captures qualified leads — built for the ServiceHive / Inflx ML Intern assignment.
 
